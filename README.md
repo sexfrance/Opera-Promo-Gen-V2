@@ -29,7 +29,7 @@
   - Simple & easy to use
   - Threading
   - Music
-  - Proxies
+  - Auto proxy scraping
   - Asks if we want to make infinite links or a specific amount
   - More but I forgot since I made it in February 🤓
 
