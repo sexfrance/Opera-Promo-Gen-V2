@@ -1,0 +1,7 @@
+colorama==0.4.6
+licensing==0.46
+pygame==2.5.2
+pypresence==4.3.0
+pystyle==2.9
+Requests==2.32.3
+tls_client==1.0.1
