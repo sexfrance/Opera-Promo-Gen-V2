@@ -28,7 +28,8 @@
   - Super Fast
   - Simple & easy to use
   - Threading
-  - Music waiting time
+  - Music
+  - Proxies
   - Asks if we want to make infinite links or a specific amount
   - More but I forgot since I made it in February 🤓
 
