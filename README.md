@@ -2,10 +2,10 @@
  
   <h2 align="center">Opera - Discord Nitro Promotion Generator V2 (PATCHED)</h2>
   <p align="center">
-    A more advenced program where you can gen discord nitro promos using OperaGX
+    A more advanced program where you can gen discord nitro promos using OperaGX
     <br />
     <br />
-    <a href="https://discord.gg/bestnitro">💬 Discord</a>
+    <a href="https://discord.cyberious.xy">💬 Discord</a>
     ·
     <a href="https://github.com/sexfrance/Opera-Promo-Gen-V2#-changelog">📜 ChangeLog</a>
     ·
