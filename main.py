@@ -1,4 +1,4 @@
-# Importing the required plugins to make our script work
+# Importing the required packages to make our script work
 import requests
 import time
 from colorama                   import init, Fore, Style
@@ -238,7 +238,7 @@ Write.Print(f"""
 \t\t           █          █    ▐   ▐     ▐   ▐   ▐       █    ▐   █       █ █         ▐     ▐                 █    ▐     ▄▀  ▄▀   █           █                █       █ █         
 \t\t           ▐          ▐                              ▐        ▐       ▐ ▐                                 ▐         █    ▐    ▐           ▐                ▐       ▐ ▐          
         
-                                                                                        Welcome {username} | discord.gg/bestnitro  
+                                                                                        Welcome {username} | discord.cyberious.xyz
                                                                                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 """, Colors.blue_to_cyan, interval=0.0000)
 
